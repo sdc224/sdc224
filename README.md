@@ -1,4 +1,4 @@
-## Hi All! <img src="https://raw.githubusercontent.com/sdc224/sdc224/master/wave.gif" width="30px">
+## Hi All! :wave:	
 
 I am Sourodeep Chatterjee, people call me SDC, currently completed my bachelor's degree majoring in computer science from [KIIT University](https://kiit.ac.in/). I am a tech enthusiast & an open-source contributor. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
