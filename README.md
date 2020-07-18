@@ -40,8 +40,6 @@ I am Sourodeep Chatterjee, people call me SDC, currently completed my bachelor's
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sdc224&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sdc224.sdc224)
