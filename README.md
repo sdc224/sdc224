@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sdc224&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sdc224.sdc224)
+
 <!--
 **sdc224/sdc224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
