@@ -10,8 +10,7 @@ I am Sourodeep Chatterjee, people call me SDC, currently completed my bachelor's
 
 - 🔭 I’m currently working on React, Testing Library and Electron Projects 
 - 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with anything related to Typescript and React.
+- 👯 I’m looking to collaborate on anything related to Typescript and React.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't have a good internet connection for now😂
 
